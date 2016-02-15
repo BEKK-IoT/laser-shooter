@@ -12,6 +12,7 @@
   "dependencies": {
     "devices-core": "bekk-iot/devices-core",
     "johnny-five": "^0.8.88",
+    "keypress": "^0.2.1",
     "serialport": "^2.0.6"
   }
 }
