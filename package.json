@@ -1,0 +1,17 @@
+{
+  "name": "laser-shooter",
+  "version": "0.0.1",
+  "description": "Laser-shooter app",
+  "main": "app.js",
+  "scripts": {
+    "app": "babel-node app.js"
+  },
+  "devDependencies": {
+    "babel": "^5.8.21"
+  },
+  "dependencies": {
+    "devices-core": "bekk-iot/devices-core",
+    "johnny-five": "^0.8.88",
+    "serialport": "^2.0.6"
+  }
+}
